@@ -14,7 +14,7 @@ Method #1
 $ python3 imagenet_finetune.py
 
 Method #2
-$ Jupyter Notebook
+$ jupyter notebook
 Open assgn#2.ipynb
 run the whole notebook
 
