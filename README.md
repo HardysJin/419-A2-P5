@@ -17,4 +17,7 @@ Method #2
 $ jupyter notebook
 Open assgn#2.ipynb
 run the whole notebook
+```
 
+## See Results Directly 
+open output.html
