@@ -2,13 +2,13 @@
 -Built on python2
 ## Run:
 ```
-4.1:
+### 4.1:
 $ python2 logistic_regression.py
 
-4.2:
+### 4.2:
 $ python2 logistic_regression_mod.py
 
-4.3
+### 4.3
 $ python2 logistic_regression_sgd.py
 
 ```
